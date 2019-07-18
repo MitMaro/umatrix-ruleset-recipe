@@ -2,5 +2,11 @@
 ! Title: mitmaro's custom rulesets
 ! Maintainer: Tim Oram <dev@mitmaro.ca>
 
-
+Global first party settings
+	* *
+		* * frame block
+		* 1st-party cookie allow
+		* 1st-party css allow
+		* 1st-party image allow
+		* 1st-party xhr allow
 
